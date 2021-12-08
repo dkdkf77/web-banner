@@ -164,3 +164,27 @@ Formal 형식적인
 Intriguing 아주 흥미로운
 Whimsical 기발한
 
+
+### 텍스트 사용시 주의점 
+ - 한 디자인에 폰트는 3가지 이하 
+ - 중요도에 따라 강약 조절
+ - 적당한 자간과 행간 -> 특수한 경우 조절
+ - 가독성 -> 한글:양쪽 OR 왼쪽 정렬 / 영문:왼쪽
+ - 본문(내용)에는 가독성 높은 기본 명조, 고딕체
+ - 고딕체 타이프페이스(TYPEFACE)
+ - 나눔체들, 노토산스, 에스코어드림)
+ - 배달의민족 도현체, 넥슨, 카페24, 롯데, 티몬, 야놀자(필기체)
+
+### 보통 동글 동글 한 폰트 보다는 네모네모한 폰트가 좋다 디자인 센스 등을 높힐수 있다.
+
+오늘 과제
+![12_다이어리](https://user-images.githubusercontent.com/88579497/145165100-0cc3036f-b40f-435b-b829-ef511a56ca2d.jpg)
+
+![페이퍼워크](https://user-images.githubusercontent.com/88579497/145165143-75d0d1a7-bc9f-43cd-9291-78a693780d17.jpg)
+
+텍스트 똑같이 만들기
+![배너01](https://user-images.githubusercontent.com/88579497/145165151-330d396d-5657-413a-9dbd-c77c23a0c8dc.jpg)
+![배너06](https://user-images.githubusercontent.com/88579497/145165190-12f37abe-fa50-41dd-b430-621e086aaebc.jpg)
+![배너02](https://user-images.githubusercontent.com/88579497/145165193-ca0f739d-1762-423d-8231-d06bcfa56196.jpg)
+![배너03](https://user-images.githubusercontent.com/88579497/145165196-e6fef3b7-aaa1-4f0c-beb3-6e67ba2980be.jpg)
+![배너05](https://user-images.githubusercontent.com/88579497/145165251-889c38d1-993c-44f4-bf8e-86a3ee9cea0a.jpg)
